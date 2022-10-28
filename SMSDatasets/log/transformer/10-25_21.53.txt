@@ -1,0 +1,167 @@
+INFO:root:Epoch [1/10]
+INFO:root:Iter:      0,  Train Loss:  0.64,  Train Acc: 67.19%,  Time: 1.269113540649414
+INFO:root:Test Loss:   1.1,  Test Acc: 87.53%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.8753    1.0000    0.9335       976
+        spam     0.0000    0.0000    0.0000       139
+
+    accuracy                         0.8753      1115
+   macro avg     0.4377    0.5000    0.4668      1115
+weighted avg     0.7662    0.8753    0.8171      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[976   0]
+ [139   0]]
+INFO:root:Time usage:1.6382873058319092
+INFO:root:Epoch [2/10]
+INFO:root:Iter:    100,  Train Loss:  0.22,  Train Acc: 90.62%,  Time: 33.51358461380005
+INFO:root:Test Loss:  0.19,  Test Acc: 92.47%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9627    0.9508    0.9567       976
+        spam     0.6821    0.7410    0.7103       139
+
+    accuracy                         0.9247      1115
+   macro avg     0.8224    0.8459    0.8335      1115
+weighted avg     0.9277    0.9247    0.9260      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[928  48]
+ [ 36 103]]
+INFO:root:Time usage:1.5210621356964111
+INFO:root:Epoch [3/10]
+INFO:root:Iter:    200,  Train Loss:  0.19,  Train Acc: 92.19%,  Time: 62.77372932434082
+INFO:root:Test Loss: 0.091,  Test Acc: 97.13%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9768    0.9908    0.9837       976
+        spam     0.9280    0.8345    0.8788       139
+
+    accuracy                         0.9713      1115
+   macro avg     0.9524    0.9127    0.9313      1115
+weighted avg     0.9707    0.9713    0.9706      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[967   9]
+ [ 23 116]]
+INFO:root:Time usage:1.4780094623565674
+INFO:root:Epoch [4/10]
+INFO:root:Test Loss: 0.091,  Test Acc: 97.13%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9768    0.9908    0.9837       976
+        spam     0.9280    0.8345    0.8788       139
+
+    accuracy                         0.9713      1115
+   macro avg     0.9524    0.9127    0.9313      1115
+weighted avg     0.9707    0.9713    0.9706      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[967   9]
+ [ 23 116]]
+INFO:root:Time usage:1.402982473373413
+INFO:root:Epoch [5/10]
+INFO:root:Iter:    300,  Train Loss: 0.014,  Train Acc: 100.00%,  Time: 90.5125687122345
+INFO:root:Test Loss: 0.091,  Test Acc: 97.22%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9758    0.9928    0.9843       976
+        spam     0.9426    0.8273    0.8812       139
+
+    accuracy                         0.9722      1115
+   macro avg     0.9592    0.9101    0.9327      1115
+weighted avg     0.9717    0.9722    0.9714      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[969   7]
+ [ 24 115]]
+INFO:root:Time usage:1.5602104663848877
+INFO:root:Epoch [6/10]
+INFO:root:Iter:    400,  Train Loss:  0.14,  Train Acc: 95.31%,  Time: 119.00457906723022
+INFO:root:Test Loss: 0.091,  Test Acc: 97.22%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9758    0.9928    0.9843       976
+        spam     0.9426    0.8273    0.8812       139
+
+    accuracy                         0.9722      1115
+   macro avg     0.9592    0.9101    0.9327      1115
+weighted avg     0.9717    0.9722    0.9714      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[969   7]
+ [ 24 115]]
+INFO:root:Time usage:1.4899773597717285
+INFO:root:Epoch [7/10]
+INFO:root:Test Loss: 0.091,  Test Acc: 97.22%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9758    0.9928    0.9843       976
+        spam     0.9426    0.8273    0.8812       139
+
+    accuracy                         0.9722      1115
+   macro avg     0.9592    0.9101    0.9327      1115
+weighted avg     0.9717    0.9722    0.9714      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[969   7]
+ [ 24 115]]
+INFO:root:Time usage:1.4117441177368164
+INFO:root:Epoch [8/10]
+INFO:root:Iter:    500,  Train Loss: 0.054,  Train Acc: 98.44%,  Time: 147.51806211471558
+INFO:root:Test Loss: 0.091,  Test Acc: 97.22%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9758    0.9928    0.9843       976
+        spam     0.9426    0.8273    0.8812       139
+
+    accuracy                         0.9722      1115
+   macro avg     0.9592    0.9101    0.9327      1115
+weighted avg     0.9717    0.9722    0.9714      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[969   7]
+ [ 24 115]]
+INFO:root:Time usage:1.370091438293457
+INFO:root:Epoch [9/10]
+INFO:root:Iter:    600,  Train Loss: 0.0056,  Train Acc: 100.00%,  Time: 175.22902417182922
+INFO:root:Test Loss: 0.098,  Test Acc: 96.68%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9796    0.9826    0.9811       976
+        spam     0.8750    0.8561    0.8655       139
+
+    accuracy                         0.9668      1115
+   macro avg     0.9273    0.9193    0.9233      1115
+weighted avg     0.9665    0.9668    0.9667      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[959  17]
+ [ 20 119]]
+INFO:root:Time usage:1.3633546829223633
+INFO:root:Epoch [10/10]
+INFO:root:Test Loss: 0.098,  Test Acc: 96.68%
+INFO:root:Precision, Recall and F1-Score...
+INFO:root:              precision    recall  f1-score   support
+
+         ham     0.9796    0.9826    0.9811       976
+        spam     0.8750    0.8561    0.8655       139
+
+    accuracy                         0.9668      1115
+   macro avg     0.9273    0.9193    0.9233      1115
+weighted avg     0.9665    0.9668    0.9667      1115
+
+INFO:root:Confusion Matrix...
+INFO:root:[[959  17]
+ [ 20 119]]
+INFO:root:Time usage:1.3404171466827393
