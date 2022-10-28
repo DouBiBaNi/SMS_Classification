@@ -136,9 +136,19 @@ Confusion Matrix...
 
 ### reference
 
-[1] Convolutional Neural Networks for Sentence Classification
-[2] A Sensitivity Analysis of Convolutional Neural Networks for Sentence Classification
-[3] Recurrent Neural Network for Text Classification with Multi-Task Learning
-[4] Recurrent Convolutional Neural Networks for Text Classification
-[5] Deep Pyramid Convolutional Neural Networks for Text Categorization
-[6] Attention Is All You Need
+[1] [Convolutional Neural Networks for Sentence Classification](https://github.com/DouBiBaNi/SMS_Classification/files/9888766/Convolutional_Recurrent_Neural_Networks_for_Text_Classification.pdf)
+
+
+[2] [A Sensitivity Analysis of Convolutional Neural Networks for Sentence Classification](https://github.com/DouBiBaNi/SMS_Classification/files/9888749/Convolutional.Neural.Networks.for.Sentence.Classification.pdf)
+
+
+[3] [Recurrent Neural Network for Text Classification with Multi-Task Learning](https://github.com/DouBiBaNi/SMS_Classification/files/9888740/Recurrent.Neural.Network.for.Text.Classification.with.Multi-Task.Learning.pdf)
+
+[4] [Recurrent Convolutional Neural Networks for Text Classification](https://github.com/DouBiBaNi/SMS_Classification/files/9888782/Convolutional_Recurrent_Neural_Networks_for_Text_Classification.pdf)
+
+
+[5] [Deep Pyramid Convolutional Neural Networks for Text Categorization](https://github.com/DouBiBaNi/SMS_Classification/files/9888733/Deep.Pyramid.Convolutional.Neural.Networks.for.Text.Categorization.pdf)
+
+
+[6] [Attention Is All You Need.pdf](https://github.com/DouBiBaNi/SMS_Classification/files/9888730/Attention.Is.All.You.Need.pdf)
+
